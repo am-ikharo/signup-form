@@ -42,10 +42,15 @@ body {
 
 .rigth-side-container {
     width: 80% auto;
+    padding: 20px;
 }
 
 .rigth-side-container button {
     padding: 20px;
     width: 100%;
+}
+
+.form-group {
+    
 }
 
