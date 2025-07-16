@@ -15,7 +15,7 @@ body {
 }
 
 .left-side {
-    width: 50%;
+    width: 45%;
     padding: 50px;
     margin: 50px ;
 }
@@ -36,26 +36,32 @@ body {
 }
 
 .right-side{
-    width: 50%;
+    width: 55%;
 }
 
 .rigth-side-container {
-    width: 80% auto;
-    padding: 0px 20px;
+    width: 90% auto;
+    padding: 0px 5px;
 }
 
 .rigth-side-container button {
     padding: 20px;
     width: 100%;
+    border-radius: 10px;
 }
 
 .trial-button-container {
+    margin: 10px 0px 30px 0px;
+}
 
+.trial-button-container button {
+    background-color: hsl(248, 32%, 49%);
+    color: white;
 }
 
 .form-container {
     background-color: white;
-    padding: 10px;
+    padding: 50px;
 }
 
 .form-group input{
