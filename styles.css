@@ -44,3 +44,8 @@ body {
     width: 80% auto;
 }
 
+.rigth-side-container button {
+    padding: 20px;
+    width: 100%;
+}
+
