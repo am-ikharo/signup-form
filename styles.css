@@ -12,7 +12,7 @@ body {
 
 .container {
     display: flex;
-    margin: 50px auto;
+    margin: 20px auto;
 }
 
 .left-side {
@@ -42,7 +42,7 @@ body {
 
 .rigth-side-container {
     width: 80% auto;
-    padding: 20px;
+    padding: 0px 20px;
 }
 
 .rigth-side-container button {
@@ -50,7 +50,18 @@ body {
     width: 100%;
 }
 
+.trial-button-container {
+
+}
+
+.form-container {
+    background-color: white;
+    padding: 10px;
+}
+
 .form-group input{
     width: 100%;
+    margin: 10px 0px;
+    padding: 20px;
 }
 
