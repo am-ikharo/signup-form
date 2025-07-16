@@ -40,7 +40,7 @@ body {
 }
 
 .rigth-side-container {
-    width: 90% auto;
+    width: 9% auto;
     padding: 0px 5px;
 }
 
@@ -58,7 +58,7 @@ body {
     background-color: hsl(248, 32%, 49%);
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .form-container {
@@ -68,7 +68,13 @@ body {
 
 .form-group input{
     width: 100%;
-    margin: 10px 0px;
+    margin: 15px 0px;
     padding: 20px;
+    border-radius: 12px;
+    border: solid 1px hsl(246, 25%, 77%);
+}
+
+input:focus {
+    border: solid 1px hsl(247, 84%, 46%);
 }
 
